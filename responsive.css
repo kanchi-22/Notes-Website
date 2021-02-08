@@ -63,6 +63,7 @@
     .newNote p{
         font-size: 70px;
         height:320px;
+        width:685px;
     }
     .newNote button{
         height:60px;
