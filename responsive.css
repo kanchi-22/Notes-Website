@@ -27,6 +27,7 @@
     .enterNote{
         height:900px;
         width:100%;
+        font-size:50px;
     }
     .enterNote h3{
         font-size:80px;
