@@ -12,6 +12,17 @@
         margin-top: 10px;
         margin-left: 15px;
     }
+    .searchSpace{
+        width:55%;
+        height:60px;
+        font-size:35px;
+    }
+    .searchBtn{
+        height:60px;
+        width:150px;
+        font-size:24px;
+        margin-top:1%;
+    }
     .container{
         padding-top: 300px;
         padding-left: 20%;
