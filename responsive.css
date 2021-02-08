@@ -28,6 +28,9 @@
         height:400px;
         width:100%;
     }
+    .enterNote h3{
+        font-size:80px;
+    }
     .addingNotes{
         margin-left:20px;
     }
